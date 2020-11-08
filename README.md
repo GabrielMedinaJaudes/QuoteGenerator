@@ -7,5 +7,9 @@ Requirements:
   -  Python 3
   -  tkinter
   -  Pillow (Image and Image tk)
+  -  pyttsx3
   
+Install pyttsx3 in the terminal with the following command:
+pip install pyttsx3
+
 To run the project, just run "main.py"
