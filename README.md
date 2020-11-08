@@ -12,4 +12,6 @@ Requirements:
 Install pyttsx3 in the terminal with the following command:
 pip install pyttsx3
 
+Note: on lines 36, 38, 41, 43, 46, the location of the images will have to be altered to the location of the downloaded zip file.
+
 To run the project, just run "Hackathon.py"
