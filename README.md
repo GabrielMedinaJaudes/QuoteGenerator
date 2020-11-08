@@ -12,4 +12,4 @@ Requirements:
 Install pyttsx3 in the terminal with the following command:
 pip install pyttsx3
 
-To run the project, just run "main.py"
+To run the project, just run "Hackathon.py"
